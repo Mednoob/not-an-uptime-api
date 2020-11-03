@@ -1,0 +1,15 @@
+{
+  "name": "not-an-uptime-api",
+  "version": "1.0.2",
+  "description": "An API Wrapper for https://uptime.notadev.xyz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mednoob",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.0"
+  },
+  "homepage": "https://uptime.notadev.xyz"
+}
